@@ -31,4 +31,4 @@ Allows uploading a leaf image and entering environment parameters
 Displays model predictions and confidence scores
 Demonstrates ML inference and deployment workflow
 
-plot.png
+  <img src="plot.png" width="600">
